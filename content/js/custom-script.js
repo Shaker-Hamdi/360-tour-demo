@@ -14,7 +14,7 @@ if (document.getElementById("panorama")) {
                 pitch: -3,
                 yaw: 117,
                 type: "equirectangular",
-                panorama: "/content/images/scene-1.jpg",
+                panorama: "https://shaker-hamdi.github.io/360-tour-demo/content/images/scene-1.jpg",
                 hotSpots: [
                     {
                         pitch: -1.1,
@@ -59,7 +59,7 @@ if (document.getElementById("panorama")) {
                 hfov: 110,
                 yaw: 5,
                 type: "equirectangular",
-                panorama: "/content/images/scene-2.jpg",
+                panorama: "https://shaker-hamdi.github.io/360-tour-demo/content/images/scene-2.jpg",
                 hotSpots: [
                     {
                         pitch: -0.6,
